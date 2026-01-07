@@ -15,4 +15,5 @@ Transmission: Centrifugal Clutch system and 20:1 Gear Reduction for maximum torq
 
 ## Project Gallery
 ![Utility Vehicle Final Product](assets/images/ARCmobil.jpg)
-*Figure 1: The custom-built 4-passenger utility vehicle during field testing.*
+*Figure 1: A humorous scale comparison between the NASA Apollo 15 LRV (Top) and my 200cc Logistics Vehicle (Bottom).
+Separated by 53 years and 384,400 km, both vehicles share the same core engineering goal: reliable transportation in challenging environments...*
