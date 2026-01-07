@@ -1,16 +1,14 @@
 # utility-vehicle-design
 4-passenger utility vehicle designed and manufactured for field logistics and equipment transport during the Anatolian Rover Challenge 2025.
 
-Overview
+
 This project covers the end-to-end design and fabrication of a 4-passenger utility vehicle specifically developed for the Anatolian Rover Challenge. The primary objective was to create a reliable, high-torque vehicle capable of transporting equipment and personnel across challenging terrain during competition field operations.
 
-Technical Specifications
-Powertrain: 200cc single-cylinder internal combustion engine.
+Performance & Load Capacity
+Structural Payload: Designed for a maximum static load of +650 kg (chassis-limited).
 
-Capacity: 4 passengers + custom rear cargo bed for logistics.
+Gradient Performance: Capable of transporting a 500 kg payload on a 10% incline, optimized for competition field terrain.
 
-Chassis: Custom-designed tubular steel frame, optimized for durability and weight distribution.
+Powertrain Architecture: * Engine: 7 HP petrol engine @ 3600 RPM.
 
-Transmission: Integrated powertrain system for high-torque delivery at low speeds.
-
-Electrical System: Custom wiring for field operations, including lighting and auxiliary power.
+Transmission: Centrifugal Clutch system and 20:1 Gear Reduction for maximum torque multiplication at low speeds
