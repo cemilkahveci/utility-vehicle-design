@@ -7,7 +7,7 @@ This project covers the end-to-end design and fabrication of a 4-passenger utili
 Performance & Load Capacity
 Structural Payload: Designed for a maximum static load of +650 kg (chassis-limited).
 
-Gradient Performance: Capable of transporting a 500 kg payload on a 10% incline, optimized for competition field terrain.
+Gradient Performance: Capable of transporting a 650 kg payload on a 15% incline, optimized for competition field terrain.
 
 Powertrain Architecture: * Engine: 7 HP petrol engine @ 3600 RPM.
 
