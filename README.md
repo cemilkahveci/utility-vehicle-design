@@ -14,5 +14,5 @@ Powertrain Architecture: * Engine: 7 HP petrol engine @ 3600 RPM.
 Transmission: Centrifugal Clutch system and 20:1 Gear Reduction for maximum torque multiplication at low speeds
 
 ## Project Gallery
-![Utility Vehicle Final Product](assets/images/arac_final.jpg)
+![Utility Vehicle Final Product](assets/images/ARCmobil.jpg)
 *Figure 1: The custom-built 4-passenger utility vehicle during field testing.*
